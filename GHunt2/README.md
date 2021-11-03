@@ -50,9 +50,11 @@ To obtain the cookies to use:
   <li>Login to your gmail account (advisable to use an account you don't use oftnely)</li>
   <li>Go to www.google.com on your browser</li>
   <li>Right click and select the Inspect option</li>
-  <li>Select the Application tab at the top and then go to the cookies section on the left and click on www.google.com. The cookies will be displayed on the right. (Be carefull to copy them properly and avoid having spaces or identation)</li>
+  <li>Select the Application tab at the top and then go to the cookies section on the left and click on www.google.com. </li>
+  <li>The cookies will be displayed on the right. (Be carefull to copy them properly and avoid having spaces or identation)</li>
+  <li>NB: For firefox, you'll find them under the Storage tab</li>
 </ol>
-#### NB: For firefox, you'll find them under the Storage tab
+
 	   
 ### b. Alternatively you can use the cookies-editor addon to obtain your cookies
 <ol>
@@ -63,15 +65,14 @@ To obtain the cookies to use:
   <li>Once download, go to your www.google.com page and click on the cookie-editor addon to view your cookies</li>
   <li>Now go back to your python script and copy in the cookies. (Be carefull to copy them properly and avoid having spaces or identation)</li>
 </ol>
+
 ### c. Using the automated way (not compatible with docker)
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Obtain the GHunt cookie addon ( available only on Firefox from - https://addons.mozilla.org/fr/firefox/addon/ghunt-companion/ )</li>
+  <li>Select option 1 to use the GHunt addon. GHunt will begin listening on a port generated.</li>
+  <li>Go back to www.google.com and open the GHunt addons.</li>
+  <li>Then click on Method 1. The cookies will be updated automatically.</li>
 </ol>
-i) Obtain the GHunt cookie addon ( available only on Firefox from - https://addons.mozilla.org/fr/firefox/addon/ghunt-companion/ <br>
-ii) Select option 1 to use the GHunt addon. GHunt will begin listening on a port generated. <br>
-iii) Go back to www.google.com and open the GHunt addons. Then click on Method 1. The cookies will be updated automatically.				
 
 ## 5. Using the tool:
 ### a. Using the email option to gather information
