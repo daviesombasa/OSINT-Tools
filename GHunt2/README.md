@@ -1,6 +1,7 @@
 # Google Hunt Tool 
-Will help you obtain information concerning gmail accounts.
-## The information that can be obtained include:
+<p> Will help you obtain information concerning gmail accounts.</p>
+<img src="https://github.com/daviesombasa/OSINT-Tools/blob/02d2820917c0f7bc017b4e50a0de983f0f2625ce/GHunt2/img/img_20.png">
+<h2>The information that can be obtained include:</h2>
 
 <ol>
   <li>Possible owner's name and profile picture</li>
@@ -26,23 +27,27 @@ Will help you obtain information concerning gmail accounts.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 git clone https://github.com/-mxrch/GHunt
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="https://github.com/daviesombasa/OSINT-Tools/blob/02d2820917c0f7bc017b4e50a0de983f0f2625ce/GHunt2/img/img_1.png">
 
 ## 2. Change directory to GHunt	
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 cd GHunt
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="https://github.com/daviesombasa/OSINT-Tools/blob/02d2820917c0f7bc017b4e50a0de983f0f2625ce/GHunt2/img/img_2.png">
 
 ## 3. Installing the python depencies
 #### NB: This will take some time.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 python3 -m pip install -r requirements 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+<img src="https://github.com/daviesombasa/OSINT-Tools/blob/02d2820917c0f7bc017b4e50a0de983f0f2625ce/GHunt2/img/img_3.png">
 
 ## 4. Configuring the cookies. 
 This is done during the first installation but also may be required from time to time. There is an automated way of doing this and a manual way.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 python3 check_and_gen.py
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+<img src="https://github.com/daviesombasa/OSINT-Tools/blob/02d2820917c0f7bc017b4e50a0de983f0f2625ce/GHunt2/img/img_4.png">
 
 ### a. The Manual Way 
 To obtain the cookies to use:
